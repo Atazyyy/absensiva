@@ -1,4 +1,4 @@
-# Karyava — HRIS Sederhana untuk UMKM
+# Absensiva — HRIS Sederhana untuk UMKM
 
 > **Kategori proyek: Web App — HRIS / HRM (Human Resource Information System).**
 > Absensi harian, pengajuan & persetujuan cuti, dan data karyawan dalam satu dashboard.
@@ -6,10 +6,10 @@
 HRIS ringan untuk UMKM yang masih mencatat absensi di buku dan cuti di
 pesan WhatsApp. Proyek ini adalah **concept demo** untuk portofolio jasa
 pembuatan web — "PT Nusantara Sembako", semua karyawan dan angka bersifat
-fiktif. Nama "Karyava" sengaja dibuat unik (belum dipakai entitas mana pun
+fiktif. Nama "Absensiva" sengaja dibuat unik (belum dipakai entitas mana pun
 di internet).
 
-**Live:** https://karyava.vercel.app
+**Live:** https://absensiva.vercel.app
 
 ## Fitur
 

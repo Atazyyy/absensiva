@@ -34,7 +34,7 @@ export default function App() {
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-moss text-white">
               <Boxes className="h-4.5 w-4.5" />
             </span>
-            Kary<span className="text-moss">ava</span>
+            Absen<span className="text-moss">siva</span>
           </p>
           <div className="flex items-center gap-2">
             <p className="hidden rounded-full border border-rule bg-sage px-3.5 py-1.5 text-xs font-bold text-mist2 sm:block">
@@ -98,7 +98,7 @@ export default function App() {
 
       <footer className="border-t border-rule bg-card">
         <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-2 px-5 py-5 text-xs text-mist2 sm:flex-row sm:items-center md:px-8">
-          <p>© 2026 Karyava · "PT Nusantara Sembako" fiktif (concept demo).</p>
+          <p>© 2026 Absensiva · "PT Nusantara Sembako" fiktif (concept demo).</p>
           <p>
             Dibuat oleh{" "}
             <a
